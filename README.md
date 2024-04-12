@@ -35,5 +35,5 @@
 
   <br/>
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiinyoung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/choiinyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiinyoung&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
