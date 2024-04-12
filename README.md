@@ -6,7 +6,7 @@
 
   <br/>
 <div align="center">
-  <h2 align="center">✨ Available ✨</h2>
+  <h3 align="center">✨ Available ✨</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> &nbsp
@@ -18,7 +18,7 @@
 
 <div align="center">
   <br/>
-  <h2 align="center">📚 Studying & Experienced 📚</h2>
+  <h3 align="center">📚 Studying & Experienced 📚</h3>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
@@ -29,7 +29,7 @@
 
 <div align="center">
   <br/>
-  <h2 align="center">📚 Tool 📚</h2>
+  <h3 align="center">📚 Tool 📚</h3>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
