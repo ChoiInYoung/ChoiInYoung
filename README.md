@@ -1,7 +1,7 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?section=header&type=Waving&color=gradient&height=300&text=Hi%20,%I'm%20InYoung&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=ᕦ(ò_óˇ)ᕤ&descAlignY=60)
-  <h3 font-size="25px">Welcome my github profile 👋🏻
+  <h3 font-size="125px">Welcome my github profile 👋🏻
 
   <br/>
   <br/>
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp
 
+  <br/>
   <br/>
   <br/>
   <a href="https://github.com/choiinyoung"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiinyoung&layout=donut&theme=nord&hide_border=true" /></a>
